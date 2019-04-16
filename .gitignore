@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.vscode/
+
+test_read_customize_xml.py

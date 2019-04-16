@@ -1,0 +1,9 @@
+<SArun>
+	<parameter id="SArun">1</parameter>
+	<parameter id="TSUM1">400.0</parameter>
+	<parameter id="SLATB">
+		<value>0.00</value><value>0.018</value>
+		<value>0.5</value><value>0.018</value>
+		<value>2.00</value><value>0.016</value>
+	</parameter>
+</SArun>

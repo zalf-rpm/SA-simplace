@@ -1,0 +1,3 @@
+param,table,min_bound,max_bound,default
+TSUM1,none,300,600,400
+SLATB,1,0.015,0.025,0.018

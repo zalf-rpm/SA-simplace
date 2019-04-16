@@ -1,0 +1,842 @@
+<CropProperties>
+ <SArun>
+  <parameter id="SArun">
+   0
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   1
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   2
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   3
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.018333333333333333
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   4
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   5
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   6
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   7
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   8
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.018333333333333333
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   9
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   10
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   11
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   12
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.018333333333333333
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   13
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   14
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   15
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   16
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.025
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   17
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.018333333333333333
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   18
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   19
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   20
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   21
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   22
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   23
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   24
+  </parameter>
+  <parameter id="TSUM1">
+   600.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   25
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   26
+  </parameter>
+  <parameter id="TSUM1">
+   400.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   27
+  </parameter>
+  <parameter id="TSUM1">
+   500.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   28
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.015
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+ <SArun>
+  <parameter id="SArun">
+   29
+  </parameter>
+  <parameter id="TSUM1">
+   300.0
+  </parameter>
+  <parameter id="SLATB">
+   <value>
+    0.00
+   </value>
+   <value>
+    0.021666666666666667
+   </value>
+   <value>
+    0.5
+   </value>
+   <value>
+    0.018
+   </value>
+   <value>
+    2.00
+   </value>
+   <value>
+    0.016
+   </value>
+  </parameter>
+ </SArun>
+</CropProperties>
